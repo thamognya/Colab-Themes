@@ -1,9 +1,13 @@
+An maintained fork to support Firefox and Chrome. 
+
+<hr>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/DannyCol/colab_themes/main/icons/favicon128.png">
   <br>
   <h1>Colab Themes</h1>
   <br>
-  <p>A Chrome extension to stylize Google Colab.
+  <p>A Firefox and Chrome extension to stylize Google Colab.
   <br><br>
   Changes the page CSS, text editor, and generates Python code to change Matplotlib styles to match the theme the user choses. Users may import themes or use any of the 56 provided. Colab Themes enhances the data science experience by transforming the way users view their code and their data!</p>
   <br>
@@ -13,6 +17,7 @@
 <div>
   <ul>
   <li><a href="https://chrome.google.com/webstore/detail/hledcfghfgmmjpnfkklcifpcdogjlgig/">Chrome</a></li>
+  <li><a href="#">Firefox</a></li>
 </ul>
 </div>
 
